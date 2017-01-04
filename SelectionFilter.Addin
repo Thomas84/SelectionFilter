@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application Selection Filter</Name>
+    <Assembly>.\SelectionFilter.Bundle\SelectionFilter.dll</Assembly>
+    <FullClassName>LazyBIM.appSelectionFilter</FullClassName>
+    <ClientId>aa82aef3-bdd4-4f07-847a-5d9e836914cf</ClientId>
+    <VendorId>Haotian.Liu</VendorId>
+  </AddIn>
+</RevitAddIns>
